@@ -1,5 +1,5 @@
 # Netwotk-Communication
-Implementing a Courses Registration System
+
 This assignment is an implementation of a “Course Registration System” server and 
 client. The communication between the server and the clients will be 
 performed using a binary communication protocol.
