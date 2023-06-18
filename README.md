@@ -1,4 +1,4 @@
-# Netwotk-Communication
+# Network-Communication
 
 This assignment is an implementation of a “Course Registration System” server and 
 client.
